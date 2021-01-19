@@ -17,5 +17,4 @@ This NLP project shows how using a LSTM neural network, along with word beddings
 * Python
 * Tensorflow
 * Google Colab, Jupyter Notebook
-* PostGres, MySql
 * Pandas, jupyter
