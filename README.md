@@ -24,4 +24,5 @@ Access to the data used on this project can be found with [this Kaggle dataset](
 * Python
 * Tensorflow
 * Google Colab, Jupyter Notebook
-* Pandas, jupyter
+* Pandas, Numpy
+* Jupyter Notebook
